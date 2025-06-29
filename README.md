@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoIPSuite
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# AutoIPSuite
+>>>>>>> b932eda8edf2ba12f12bcc477e69db7f96477fa9
